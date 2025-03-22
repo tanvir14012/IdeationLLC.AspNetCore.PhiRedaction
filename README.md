@@ -1,4 +1,3 @@
-```markdown
 # PHI Redaction Application
 
 This repository contains a .NET 8 solution that processes simulated lab order documents, identifies and redacts Protected Health Information (PHI), and outputs the sanitized data. The solution consists of two projects:
